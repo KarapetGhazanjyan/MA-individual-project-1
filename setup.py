@@ -12,6 +12,7 @@ setuptools.setup(
     long_description="This is Music Recommendation system which allows to choose a user and choose a number of TOP-N Movies for the user",
     long_description_content_type="text/markdown",
     url="https://github.com/KarapetGhazanjyan/MA-individual-project-1",
+    install_requires=["tk", "pandas", "surprise", "setuptools"],
     packages=setuptools.find_packages(),
     package_data={'package': ['data/*.csv']},
     classifiers=[
