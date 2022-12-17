@@ -1,0 +1,5 @@
+setup.py
+musicrecsys.egg-info/PKG-INFO
+musicrecsys.egg-info/SOURCES.txt
+musicrecsys.egg-info/dependency_links.txt
+musicrecsys.egg-info/top_level.txt

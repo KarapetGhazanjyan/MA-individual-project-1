@@ -1,7 +1,7 @@
 import setuptools
+import codecs
+import os
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
 
 setuptools.setup(
     name="musicrecsys",
@@ -9,7 +9,7 @@ setuptools.setup(
     author="Karapet Ghazanjyan",
     author_email="karapet_ghazanjyan@edu.aua.am",
     description="Music Recommendation System",
-    long_description=long_description,
+    long_description="This is Music Recommendation system which allows to choose a user and choose a number of TOP-N Movies for the user",
     long_description_content_type="text/markdown",
     url="https://github.com/KarapetGhazanjyan/MA-individual-project-1",
     packages=setuptools.find_packages(),

@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: musicrecsys
+Version: 0.1
+Summary: Music Recommendation System
+Home-page: https://github.com/KarapetGhazanjyan/MA-individual-project-1
+Author: Karapet Ghazanjyan
+Author-email: karapet_ghazanjyan@edu.aua.am
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+This is Music Recommendation system which allows to choose a user and choose a number of TOP-N Movies for the user
